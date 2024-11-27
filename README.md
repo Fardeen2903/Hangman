@@ -1,12 +1,6 @@
 # Hangman
 simple hangman game in python
 
-Here’s a sample `README.md` for your Hangman game project using the BSD 2-Clause License:
-
----
-
-# Hangman Game in Python
-
 ## Description
 
 This is a Python implementation of the classic **Hangman game**. In this version, the game randomly selects a word from the English dictionary and provides a hint by displaying its definition. The player must guess the word by suggesting letters. With each incorrect guess, an ASCII representation of a hangman is drawn. The player is allowed a maximum of 6 incorrect guesses before losing the game.
